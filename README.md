@@ -1,5 +1,7 @@
 # U.S. States Game with Turtle Graphics and Pandas
 
+![us game](https://github.com/Amina-Sagheer/U.S.-StatesGame/assets/172102325/0366a86f-2c68-47d3-acdd-0952720177f9)
+
 ## Overview
 This Python program uses the Turtle graphics library to create an interactive game where users can guess and display U.S. state names on a map.
 
