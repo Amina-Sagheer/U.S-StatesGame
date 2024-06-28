@@ -23,5 +23,9 @@ This Python program uses the Turtle graphics library to create an interactive ga
 3. **Exiting the Game**:
    - Close the game window or enter "Exit" when prompted for a state name.
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
 
 
